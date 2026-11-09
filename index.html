@@ -62,15 +62,31 @@
 		}
 
 		.card {
-			border: 1px solid var(--primary-color);
-			border-radius: 8px;
+			border: 2px solid var(--primary-color);
+			border-radius: 0.5rem;
 			padding: 1rem;
-			text-align: center;
-			margin-bottom: 2rem;
+			font-size: 0.875rem;
+
+			img {
+				display: block;
+				margin: 0 auto 1rem auto;
+				border: 2px solid var(--primary-color);
+			}
 
 			h2 {
 				font-size: 1.25rem;
 				margin-bottom: 0.5rem;
+				text-align: center;
+			}
+
+			ul.data-list {
+				list-style: none;
+				padding: 0;
+				margin: 0;
+
+				li {
+					margin-bottom: .5rem
+				}
 			}
 		}
 
@@ -87,16 +103,18 @@
 	<script>
 		$(document).ready(function () {
 			$.ajax({
-				url: 'users.json',
+				url: 'json/users.json',
 				success: function (data) {
 					$.each(data, function (index, value) {
 						$('.users-grid').append(`
 							<div class="card">
 								<img src="${value.avatar}" class="avatar" alt="${value.name}">
-								<h2>${value.name}</h2>
-								<p>Role: ${value.role}</p>
-								<p>Age: ${value.age}</p>
-								<p>Email: ${value.email}</p>
+								<h2 class="name">${value.name}</h2>
+								<ul class="data-list">
+									<li>Role: ${value.role}</li>
+									<li>Age: ${value.age}</li>
+									<li>${value.email}</li>
+								</ul>
 							</div>
 						`);
 					});
