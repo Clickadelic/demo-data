@@ -1,0 +1,106 @@
+[
+	{
+		"id": "34441d7c-78fe-4062-bb95-390134224cdf",
+		"name": "Gerrit Rieckers",
+		"age": 42,
+		"email": "rieckers@wirtual-team.com",
+		"role": "CEO",
+		"avatar": "/avatars/Gerrit-Rieckers.jpg"
+	},
+	{
+		"id": "34441d7c-78fe-4062-bb95-390134224cde",
+		"name": "Hendrik Blursson",
+		"age": 28,
+		"email": "hendrik.blursson@example.com",
+		"role": "Editor",
+		"avatar": "/avatars/Hendrik-Blursson.jpg"
+	},
+	{
+		"id": "53341d7c-45fe-4062-bb95-390134224cdf",
+		"name": "Jack Schmidt",
+		"age": 32,
+		"email": "jack.schmidt@example.com",
+		"role": "Manager",
+		"avatar": "/avatars/Jack-Schmidt.jpg"
+	},
+	{
+		"id": "66741d7c-78gt-4062-ef95-390324224cdf",
+		"name": "Johan Dohan",
+		"age": 28,
+		"email": "johan.dohan@example.com",
+		"role": "Developer",
+		"avatar": "/avatars/Johan-Dohan.jpg"
+	},
+	{
+		"id": "77841d7c-78gt-4062-ef95-390324224cdf",
+		"name": "Liam Landwehr",
+		"age": 30,
+		"email": "liam.landwehr@example.com",
+		"role": "Designer",
+		"avatar": "/avatars/Liam-Landwehr.jpg"
+	},
+	{
+		"id": "77841d7c-78gt-4062-ef95-390324224cdf",
+		"name": "Luis Remon",
+		"age": 32,
+		"email": "luis.remon@example.com",
+		"role": "Designer",
+		"avatar": "/avatars/Luis-Remon.jpg"
+	},
+	{
+		"id": "c9fcea20-aaa8-48f1-b183-c0543979edfd",
+		"name": "Matthias Klempner",
+		"age": 34,
+		"email": "matthias.klempner@example.com",
+		"role": "Developer",
+		"avatar": "/avatars/Matthias-Klempner.jpg"
+	},
+	{
+		"id": "c9fcea20-aaa8-48f1-b183-c0543979edfd",
+		"name": "Maximilian Lux",
+		"age": 35,
+		"email": "maximilian.lux@example.com",
+		"role": "Photographer",
+		"avatar": "/avatars/Maximilian-Lux.jpg"
+	},
+	{
+		"id": "66741d7c-78gt-4062-ef95-390324224cdf",
+		"name": "Richard Braun",
+		"age": 52,
+		"email": "richard.braun@example.com",
+		"role": "Developer",
+		"avatar": "/avatars/Richard-Braun.jpg"
+	},
+	{
+		"id": "66741d7c-78gt-4062-ef95-390324224cdf",
+		"name": "Robin Hut",
+		"age": 36,
+		"email": "robin.hut@retter.de",
+		"role": "Savior",
+		"avatar": "/avatars/Robin-Hut.jpg"
+	},
+	{
+		"id": "42277714-7b6a-492c-8c8e-fabaed960c8b",
+		"name": "Stefan Borat",
+		"age": 45,
+		"email": "stefan.borat@example.com",
+		"role": "Filmmaker",
+		"avatar": "/avatars/Stefan-Borat.jpg"
+	},
+	{
+		"id": "53377714-7b6a-492c-8c8e-fabaed960c8b",
+		"name": "Tim Platzhalt",
+		"age": 25,
+		"email": "tim.platzhalt@example.com",
+		"role": "Intern",
+		"avatar": "/avatars/Tim-Platzhalt.jpg"
+	},
+	{
+		"id": "53377714-7b6a-492c-8c8e-fabaed960c8b",
+		"name": "Timo Dingens",
+		"age": 22,
+		"email": "timo.dingens@example.com",
+		"role": "Intern",
+		"avatar": "/avatars/Timo-Dingens.jpg"
+	}
+]
