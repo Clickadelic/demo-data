@@ -1,8 +1,27 @@
 [
 	{
+		"id": "2825a20c-2d20-4d3c-b321-5f61a3dd36ec",
+		"name": "Barbara Johners",
+		"age": 42,
+		"gender": "female",
+		"email": "b.johners@demos.com",
+		"role": "CFO",
+		"avatar": "/avatars/Barbara-Johners.jpg"
+	},
+	{
+		"id": "cfbc0827-abde-4e56-a264-f7b62b03c866",
+		"name": "Claudia Gustavsson",
+		"age": 37,
+		"gender": "female",
+		"email": "c.gustavsson@demos.com",
+		"role": "Managerin",
+		"avatar": "/avatars/Claudia-Gustavsson.jpg"
+	},
+	{
 		"id": "34441d7c-78fe-4062-bb95-390134224cdf",
 		"name": "Gerrit Rieckers",
-		"age": 42,
+		"age": 41,
+		"gender": "male",
 		"email": "rieckers@wirtual-team.com",
 		"role": "CEO",
 		"avatar": "/avatars/Gerrit-Rieckers.jpg"
@@ -11,22 +30,43 @@
 		"id": "34441d7c-78fe-4062-bb95-390134224cde",
 		"name": "Hendrik Blursson",
 		"age": 28,
+		"gender": "male",
 		"email": "hendrik.blursson@example.com",
 		"role": "Editor",
 		"avatar": "/avatars/Hendrik-Blursson.jpg"
 	},
 	{
+		"id": "9f1cc88e-5ff9-4b8a-b2bf-e70e0c6a47c6",
+		"name": "Holee Shu",
+		"age": 28,
+		"gender": "female",
+		"email": "holee.shu@example.com",
+		"role": "Model",
+		"avatar": "/avatars/Holee-Shu.jpg"
+	},
+	{
 		"id": "53341d7c-45fe-4062-bb95-390134224cdf",
 		"name": "Jack Schmidt",
 		"age": 32,
+		"gender": "male",
 		"email": "jack.schmidt@example.com",
 		"role": "Manager",
 		"avatar": "/avatars/Jack-Schmidt.jpg"
 	},
 	{
+		"id": "880783f9-2274-4af1-a56e-c1b3812613dc",
+		"name": "Jennifer Burglau",
+		"age": 31,
+		"gender": "female",
+		"email": "jennifer.burglau@example.com",
+		"role": "Bloggerin",
+		"avatar": "/avatars/Jennifer-Burglau.jpg"
+	},
+	{
 		"id": "66741d7c-78gt-4062-ef95-390324224cdf",
 		"name": "Johan Dohan",
 		"age": 28,
+		"gender": "male",
 		"email": "johan.dohan@example.com",
 		"role": "Developer",
 		"avatar": "/avatars/Johan-Dohan.jpg"
@@ -35,6 +75,7 @@
 		"id": "77841d7c-78gt-4062-ef95-390324224cdf",
 		"name": "Liam Landwehr",
 		"age": 30,
+		"gender": "male",
 		"email": "liam.landwehr@example.com",
 		"role": "Designer",
 		"avatar": "/avatars/Liam-Landwehr.jpg"
@@ -43,6 +84,7 @@
 		"id": "77841d7c-78gt-4062-ef95-390324224cdf",
 		"name": "Luis Remon",
 		"age": 32,
+		"gender": "male",
 		"email": "luis.remon@example.com",
 		"role": "Designer",
 		"avatar": "/avatars/Luis-Remon.jpg"
@@ -51,38 +93,79 @@
 		"id": "c9fcea20-aaa8-48f1-b183-c0543979edfd",
 		"name": "Matthias Klempner",
 		"age": 34,
+		"gender": "male",
 		"email": "matthias.klempner@example.com",
 		"role": "Developer",
 		"avatar": "/avatars/Matthias-Klempner.jpg"
 	},
 	{
+		"id": "63e1fa76-56b3-4f9f-a91b-84e39050713a",
+		"name": "Marina Dogbarth",
+		"age": 34,
+		"gender": "female",
+		"email": "marina.dogbarth@example.com",
+		"role": "Sales",
+		"avatar": "/avatars/Marina-Dogbarth.jpg"
+	},
+	{
+		"id": "63e1fa76-56b3-4f9f-a91b-84e39050713a",
+		"name": "Maritta Meyers",
+		"age": 56,
+		"gender": "female",
+		"email": "maritta.meyers@example.com",
+		"role": "Hausfrau",
+		"avatar": "/avatars/Maritta-Meyers.jpg"
+	},
+	{
 		"id": "c9fcea20-aaa8-48f1-b183-c0543979edfd",
 		"name": "Maximilian Lux",
 		"age": 35,
+		"gender": "male",
 		"email": "maximilian.lux@example.com",
 		"role": "Photographer",
 		"avatar": "/avatars/Maximilian-Lux.jpg"
 	},
 	{
+		"id": "c9fcea20-aaa8-48f1-b183-c0543979edfd",
+		"name": "Poca Talahina",
+		"age": 31,
+		"gender": "female",
+		"email": "poca.talahina@beautiful-girls.com",
+		"role": "Model",
+		"avatar": "/avatars/Poca-Talahina.jpg"
+	},
+	{
 		"id": "66741d7c-78gt-4062-ef95-390324224cdf",
 		"name": "Richard Braun",
 		"age": 52,
+		"gender": "male",
 		"email": "richard.braun@example.com",
-		"role": "Developer",
+		"role": "Engineer",
 		"avatar": "/avatars/Richard-Braun.jpg"
 	},
 	{
 		"id": "66741d7c-78gt-4062-ef95-390324224cdf",
 		"name": "Robin Hut",
 		"age": 36,
+		"gender": "male",
 		"email": "robin.hut@retter.de",
 		"role": "Savior",
 		"avatar": "/avatars/Robin-Hut.jpg"
 	},
 	{
 		"id": "42277714-7b6a-492c-8c8e-fabaed960c8b",
+		"name": "Sinah Dong",
+		"age": 45,
+		"gender": "female",
+		"email": "sinah@moviestars.com",
+		"role": "Actor",
+		"avatar": "/avatars/Sinah-Dong.jpg"
+	},
+	{
+		"id": "42277714-7b6a-492c-8c8e-fabaed960c8b",
 		"name": "Stefan Borat",
 		"age": 45,
+		"gender": "male",
 		"email": "stefan.borat@example.com",
 		"role": "Filmmaker",
 		"avatar": "/avatars/Stefan-Borat.jpg"
@@ -91,6 +174,7 @@
 		"id": "53377714-7b6a-492c-8c8e-fabaed960c8b",
 		"name": "Tim Platzhalt",
 		"age": 25,
+		"gender": "male",
 		"email": "tim.platzhalt@example.com",
 		"role": "Intern",
 		"avatar": "/avatars/Tim-Platzhalt.jpg"
@@ -99,6 +183,7 @@
 		"id": "53377714-7b6a-492c-8c8e-fabaed960c8b",
 		"name": "Timo Dingens",
 		"age": 22,
+		"gender": "male",
 		"email": "timo.dingens@example.com",
 		"role": "Intern",
 		"avatar": "/avatars/Timo-Dingens.jpg"
